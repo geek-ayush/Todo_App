@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { View, Text, Button } from "react-native";
-import CheckBox from "react-native-check-box";
+// import CheckBox from "react-native-check-box";
 import Icon from "react-native-vector-icons/dist/FontAwesome";
 import RoundCheckbox from "rn-round-checkbox";
 

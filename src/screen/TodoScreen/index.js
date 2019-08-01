@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Head from "../Head/index";
-import TodoItem from "../TodoItem/index";
-import BottomNav from "../BottomNav/index";
+import Head from "../../Component/Head/index";
+import TodoItem from "../../Component/TodoItem/index";
+import BottomNav from "../../Component/BottomNav/index";
 import { Text, View, ScrollView } from "react-native";
 
 export default class TodoScreen extends Component {
